@@ -5,6 +5,8 @@
 
 -[Recommendations](#recommendations)
 
+-[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
 
 
 ### Project Overview
