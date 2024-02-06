@@ -13,6 +13,7 @@
 This data analysis project aims to provide insights into analyzing Malhub's yearly sales reports.I'm looking at different aspects like item types,regions,total income,profit and monthly patterns to identify trends and offer data-driven suggestions for improving the company's performance. The main goal is to create a user friendly dashboard that turns raw data into useful insights.This will help the team make informed decisions and manage the company more efficiently.
 
 
+
 ### Data Source
 The main dataset for our analysis is sourced from Malhub's annuel sales reports,providing detailed information on the company's sales for each year.
 
